@@ -1,5 +1,5 @@
 # Verify a tagged commit
-name: Verify tagged commit
+name: Verify actor commit
 
 on:
   workflow_call:
